@@ -24,7 +24,8 @@ author:
   givenName: Carl
   familyName: Boettiger
 
-kramdown:
-    input: GFM
+#kramdown:
+#    input: GFM
 
+# GFM treats hard-wrapped text as breaks
     

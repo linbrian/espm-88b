@@ -1,5 +1,33 @@
-section {
+section.sidebar {
   @include outer-container;
   aside { @include span-columns(3); }
   article { @include span-columns(9); }
 }
+
+section.page {
+  @include outer-container;
+  article {
+    @include shift(1.5);
+    @include span-columns(9); 
+  }
+}
+
+// Apply the tables class automatically to any table element
+table {
+  @import "refills/patterns/tables";
+  @extend .tables;
+}
+
+// Use these fonts for the whole body, regardless of class
+body {
+  @import "refills/type-systems/geometric";
+  @extend article.type-system-geometric;
+}
+
+
+section.columns {
+  @include shift(1);
+  section.col { @include span-columns(5); }
+  section.full { @include span-columns(9); }
+}
+
