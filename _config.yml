@@ -1,0 +1,26 @@
+# Jekyll config file
+
+title: ESPM-88B 
+url: "http://berkeley.carlboettiger.info/espm-88b"
+locale: en
+logo: "logo.png"
+analytics: none
+
+navigation:  
+  - title: Home
+    url: /
+  - title: Syllabus
+    url: /syllabus.html
+  - title: Assignments
+    url: /assignments.html
+  - title: Links
+    url: /links.html
+
+author:
+  name: "Carl Boettiger"
+  email: "cboettig@ropensci.org"
+  twitter: cboettig
+  github: cboettig
+  givenName: Carl
+  familyName: Boettiger
+
