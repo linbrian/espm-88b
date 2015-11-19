@@ -24,3 +24,7 @@ author:
   givenName: Carl
   familyName: Boettiger
 
+kramdown:
+    input: GFM
+
+    
