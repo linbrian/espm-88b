@@ -7,9 +7,10 @@ title: Syllabus
 
 <br/>
 <br/>
+<section class="columns">
+
 <h1>{{page.title}}</h1>
 
-<section class="columns">
 <section class="col" markdown="1">
 
 The course will meet once a week for 2 hour sessions.  This course
