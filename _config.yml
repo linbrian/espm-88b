@@ -1,7 +1,8 @@
 # Jekyll config file
 
 title: ESPM-88B 
-url: "/espm-88b"
+url: http://berkeley.carlboettiger.info/espm-88b
+baseurl: /espm-88b
 locale: en
 logo: "logo.png"
 analytics: none
