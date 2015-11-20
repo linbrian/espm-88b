@@ -5,6 +5,10 @@ title: Syllabus
 ---
 
 
+<br/>
+<br/>
+<h1>{{page.title}}</h1>
+
 <section class="columns">
 <section class="col" markdown="1">
 
