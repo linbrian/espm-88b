@@ -24,10 +24,12 @@ body {
   @extend article.type-system-geometric;
 }
 
-
+// Hmm, a two-column layout (5/12) to be used in place of default
 section.columns {
-  @include shift(1);
-  section.col { @include span-columns(5); }
-  section.full { @include span-columns(9); }
+  @include outer-container;
+  section.col1 { @include span-columns(6); }
+  section.col2 { @include span-columns(6);
+                 @include omega();
+               }
 }
 

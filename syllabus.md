@@ -1,17 +1,10 @@
 ---
-layout: default 
+layout: columns 
 title: Syllabus
 
 ---
 
-
-<br/>
-<br/>
-<section class="columns">
-
-<h1>{{page.title}}</h1>
-
-<section class="col" markdown="1">
+<section class="col1" markdown="1">
 
 The course will meet once a week for 2 hour sessions.  This course
 is structured around four modules that will give students a chance to
@@ -37,7 +30,7 @@ conclusions of their peers.
 
 </section>
 
-<section class="col" markdown="1">
+<section class="col2" markdown="1">
 
 |---------|-----------------------------------------------------|
 | Week 1  | Introductions, computing setup |
@@ -60,7 +53,7 @@ conclusions of their peers.
 <br/>
 <br/>
 
-<section class="full" markdown="1">
+<section markdown="1">
 
 ## Final projects 
 
@@ -80,8 +73,6 @@ Exercises
 Participation in critiques
 : 10% 
 : 
-
-</section>
 </section>
 
 
