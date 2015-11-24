@@ -24,9 +24,10 @@ author:
   github: cboettig
   givenName: Carl
   familyName: Boettiger
+  homepage: "http://www.carlboettiger.info"
 
 #kramdown:
 #    input: GFM
 
-# GFM treats hard-wrapped text as breaks
+    # Nope, GFM-mode treats any hard-wrapped text as line breaks (e.g. the behaviour it has in 'issues', but not in documents...
     
