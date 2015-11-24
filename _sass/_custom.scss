@@ -20,6 +20,7 @@ table {
 
 // Use these fonts for the whole body, regardless of class
 body {
+  margin:0;
   @import "refills/type-systems/geometric";
   @extend article.type-system-geometric;
 }
