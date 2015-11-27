@@ -2,7 +2,7 @@
 layout: hero 
 title: ESPM 88B 
 description: |
-  Apply methods and understanding from the _Data Science Foundations_ course
+  Apply methods and understanding from the Data Science Foundations course
   to real-world ecological and environmental data sets. In a hands-on
   approach, you will learn about issues in the natural world while also
   developing skills for working with real-world data encountered in all
